@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="https://telegra.ph/file/fcded7a782fe7381e2177.jpg">
 </p>
 <h1 align="center">
   <b>myG AutofilterBot</b>
