@@ -32,7 +32,7 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
+Read [this](https://t.me/MyG_Support/3) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -46,7 +46,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
+* Check [info.py](https://t.me/MyG_Support/3) for more
 
 
 ## Deploy
